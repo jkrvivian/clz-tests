@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+#include "clz.h"
+
+int main()
+{
+
+#if defined ITERATION
+	clz_iteration
